@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of TitanFit Coach",
+  "description": "A comprehensive dual-role fitness management platform for high-performance coaching and client tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
